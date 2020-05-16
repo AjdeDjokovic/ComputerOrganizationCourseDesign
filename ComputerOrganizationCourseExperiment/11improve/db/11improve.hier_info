@@ -1,0 +1,13 @@
+|11improve
+T1 <= inst.DB_MAX_OUTPUT_PORT_TYPE
+rst => inst.ACLR
+rst => inst6.ACLR
+rst => inst5.ACLR
+rst => inst4.ACLR
+rst => inst3.ACLR
+clk => inst2.IN0
+T2 <= inst3.DB_MAX_OUTPUT_PORT_TYPE
+T3 <= inst4.DB_MAX_OUTPUT_PORT_TYPE
+T4 <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+
+

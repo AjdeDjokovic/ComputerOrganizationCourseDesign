@@ -1,0 +1,17 @@
+|1
+e <= inst5.DB_MAX_OUTPUT_PORT_TYPE
+a => inst.IN0
+a => inst3.IN0
+a => inst7.IN0
+a => inst1.IN0
+b => inst.IN1
+b => inst4.IN0
+b => inst2.IN0
+b => inst8.IN1
+and => inst.IN2
+or => inst4.IN1
+or => inst3.IN1
+xor => inst7.IN2
+xor => inst8.IN0
+
+
