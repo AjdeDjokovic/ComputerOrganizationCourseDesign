@@ -1,0 +1,124 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=8;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   01;
+	001  :   06;
+	[002..003]  :   02;
+	004  :   03;
+	005  :   A0;
+	006  :   04;
+	007  :   A1;
+	008  :   05;
+	009  :   A2;
+	00A  :   07;
+	00B  :   A4;
+	00C  :   08;
+	00D  :   A5;
+	00E  :   04;
+	00F  :   A6;
+	010  :   09;
+	011  :   60;
+	012  :   0A;
+	013  :   64;
+	014  :   0B;
+	015  :   68;
+	016  :   0C;
+	017  :   6E;
+	018  :   0D;
+	019  :   72;
+	01A  :   0F;
+	01B  :   C0;
+	01C  :   10;
+	01D  :   01;
+	01E  :   FF;
+	01F  :   14;
+	020  :   AC;
+	021  :   11;
+	022  :   14;
+	023  :   AD;
+	024  :   16;
+	025  :   76;
+	026  :   15;
+	027  :   AF;
+	028  :   16;
+	029  :   79;
+	02A  :   16;
+	02B  :   89;
+	02C  :   1B;
+	[02D..05F]  :   00;
+	060  :   14;
+	061  :   A7;
+	062  :   0E;
+	063  :   12;
+	064  :   14;
+	065  :   A8;
+	066  :   0E;
+	[067..068]  :   14;
+	069  :   A9;
+	06A  :   06;
+	06B  :   A3;
+	06C  :   0E;
+	06D  :   16;
+	06E  :   14;
+	06F  :   AA;
+	070  :   0E;
+	071  :   18;
+	072  :   14;
+	073  :   AB;
+	074  :   0E;
+	075  :   1A;
+	076  :   15;
+	077  :   AE;
+	078  :   17;
+	079  :   18;
+	07A  :   0A;
+	[07B..07C]  :   01;
+	07D  :   02;
+	07E  :   00;
+	07F  :   03;
+	080  :   B0;
+	081  :   13;
+	082  :   1A;
+	083  :   B1;
+	084  :   19;
+	085  :   7F;
+	086  :   15;
+	087  :   B2;
+	088  :   17;
+	089  :   18;
+	08A  :   04;
+	[08B..08C]  :   01;
+	08D  :   02;
+	08E  :   01;
+	08F  :   05;
+	090  :   B3;
+	091  :   13;
+	092  :   1A;
+	093  :   B4;
+	094  :   19;
+	095  :   8F;
+	096  :   15;
+	097  :   B5;
+	098  :   17;
+	[099..0FF]  :   00;
+END;

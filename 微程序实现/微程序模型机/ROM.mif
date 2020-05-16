@@ -1,0 +1,88 @@
+-- Copyright (C) 1991-2013 Altera Corporation
+-- Your use of Altera Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Altera Program License 
+-- Subscription Agreement, Altera MegaCore Function License 
+-- Agreement, or other applicable license agreement, including, 
+-- without limitation, that your use is for the sole purpose of 
+-- programming logic devices manufactured by Altera and sold by 
+-- Altera or its authorized distributors.  Please refer to the 
+-- applicable agreement for further details.
+
+-- Quartus II generated Memory Initialization File (.mif)
+
+WIDTH=24;
+DEPTH=256;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	000  :   3E8021;
+	001  :   3E8801;
+	002  :   121601;
+	003  :   000003;
+	[004..00F]  :   000000;
+	010  :   341A01;
+	011  :   121601;
+	012  :   3E8021;
+	013  :   3E8201;
+	014  :   341A01;
+	015  :   000002;
+	[016..01F]  :   000000;
+	020  :   341A01;
+	021  :   121601;
+	022  :   3E8021;
+	023  :   3E8401;
+	024  :   341A01;
+	025  :   000002;
+	[026..02F]  :   000000;
+	030  :   0C6C01;
+	031  :   341A01;
+	032  :   000002;
+	[033..03F]  :   000000;
+	040  :   341A01;
+	041  :   121601;
+	042  :   3E8021;
+	043  :   3E8A01;
+	044  :   342051;
+	045  :   341A01;
+	046  :   000002;
+	[047..04F]  :   000000;
+	050  :   000008;
+	[051..05F]  :   000000;
+	060  :   341A01;
+	061  :   121601;
+	062  :   3E8021;
+	063  :   3E8E01;
+	064  :   341A01;
+	065  :   000005;
+	066  :   131641;
+	067  :   341A01;
+	068  :   000002;
+	[069..06F]  :   000000;
+	070  :   341A01;
+	071  :   121601;
+	072  :   3E8021;
+	073  :   3E8E01;
+	074  :   341A01;
+	075  :   000006;
+	076  :   131641;
+	077  :   341A01;
+	078  :   000002;
+	[079..07F]  :   000000;
+	080  :   341A01;
+	081  :   121601;
+	082  :   3E8021;
+	083  :   3E8E01;
+	084  :   341A01;
+	085  :   0C6C01;
+	086  :   000001;
+	087  :   131641;
+	088  :   341A01;
+	089  :   000002;
+	[08A..0FF]  :   000000;
+END;
